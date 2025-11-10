@@ -1,2 +1,2 @@
 # Birthday-Reminder
-A program for reminding birthdays!
+A program for reminding birthdays
